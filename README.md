@@ -42,7 +42,7 @@ Follow these steps to set up your environment:
 
 ### 1. Install Python
 
-**Live Youtube Guide :***
+**Live Youtube Guide :**
 
  1.  [Windows ](https://youtu.be/P7Q4_pqj7uc)
  2.  [For Mac OS: ](https://youtu.be/nhv82tvFfkM)
