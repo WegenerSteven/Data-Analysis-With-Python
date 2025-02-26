@@ -12,7 +12,10 @@
    - [Install Required Libraries](#3-install-required-libraries)
    - [Verify Installation](#4-verify-installation)
 5. [Roadmap](#roadmap)
-6. [How to Participate](#how-to-participate)
+6. [Reading Material](#reading-materials)
+7. [How to Participate](#how-to-participate)
+
+---
 
 ## Overview
 The **Ajira Digital Club of Kirinyaga University** presents the **Upskill Series**, an initiative designed to equip members and the wider community with industry-relevant skills. 
@@ -65,7 +68,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 print("Setup Successful!")
 ```
-
+---
 ## Roadmap
 
 [🚀 View the Data Analysis Roadmap on roadmap.sh](https://roadmap.sh/data-analyst)
@@ -111,7 +114,25 @@ graph TD;
     class D,E,F,G,H,I,J secondary;
     class K,L,M,N,O,P,Q,R,S,T,U,V highlight;
 ```
+---
 
+## Reading Materials
+To help you learn Python and Data Analysis more effectively, here are some useful resources:
+
+### Python Basics
+- [Python Official Documentation](https://docs.python.org/3/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Real Python - Beginner Tutorials](https://realpython.com/python-beginners-guide/)
+- [Learn Python - FreeCodeCamp](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
+
+### Python for Data Analysis
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [DataCamp - Python for Data Analysis](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Kaggle - Learn Python](https://www.kaggle.com/learn/python)
 ## How to Participate
 - Join our live sessions.
 - Follow along with provided notebooks and exercises
@@ -119,4 +140,10 @@ graph TD;
 
 ---
 **Let’s upskill together! 🚀**
+
+
+
+
+
+
 
