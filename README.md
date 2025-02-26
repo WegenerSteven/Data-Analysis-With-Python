@@ -98,6 +98,15 @@ graph TD;
 
     T -->|Bonus| U[Regular Expressions]
     T -->|Bonus| V[Datetime Handling]
+
+    %% Styling
+    classDef primary fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#ffffff;
+    classDef secondary fill:#27ae60,stroke:#1e8449,stroke-width:2px,color:#ffffff;
+    classDef highlight fill:#f1c40f,stroke:#f39c12,stroke-width:2px,color:#000000;
+
+    class A,B,C primary;
+    class D,E,F,G,H,I,J secondary;
+    class K,L,M,N,O,P,Q,R,S,T,U,V highlight;
 ```
 
 ## How to Participate
