@@ -67,7 +67,9 @@ print("Setup Successful!")
 ```
 
 ## Roadmap
-<iframe src="https://roadmap.sh/data-analyst" width="100%" height="600px"></iframe>
+
+[🚀 View the Data Analysis Roadmap on roadmap.sh](https://roadmap.sh/data-analyst)
+
 Below is the structured roadmap for the training:
 
 ```mermaid
