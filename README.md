@@ -45,6 +45,8 @@ Follow these steps to set up your environment:
 **Live Youtube Guide :***
 
  1.  [Windows ](https://youtu.be/P7Q4_pqj7uc)
+ 2.  [For Mac OS: ](https://youtu.be/nhv82tvFfkM)
+ 3.  [For Linux Ubuntu: ](https://youtu.be/IAco2SSuGms)
 
 Download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
 
