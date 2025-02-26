@@ -41,6 +41,11 @@ To get the most out of this training, you should:
 Follow these steps to set up your environment:
 
 ### 1. Install Python
+
+**Live Youtube Guide :***
+
+ 1.  [Windows ](https://youtu.be/P7Q4_pqj7uc)
+
 Download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
 
 ### 2. Install Jupyter Notebook (Recommended)
