@@ -2,7 +2,7 @@
 
 # Upskill Series: Data Analysis with Python
 
-![Datat-Analysis](.Assets/images/Upskill.png)
+![Data-Analysis](./Assets/images/Upskill.png)
 
 ## Table of Contents
 1. [Overview](#overview)
