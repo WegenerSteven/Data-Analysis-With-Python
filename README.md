@@ -2,6 +2,9 @@
 
 # Upskill Series: Data Analysis with Python
 
+![Hackathon Image](.Assets/images
+/Upskill.png)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Learning Objectives](#learning-objectives)
