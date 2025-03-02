@@ -9,7 +9,10 @@
 #(Modulus): Returns the remainder of division.
 #(Exponentiation): Raises a number to a power.
 
-sales = [100, 200, 300]
+num1 = 7
+num2 = 9
+print("The sum of num1 and num2 is:", num1%num2)
+sales = [100, 200, 300] #sales list
 total_sales = sales[0] + sales[1] + sales[2]
 average_sales = total_sales / 3
 squared_diff = (sales[0] - average_sales) **2
@@ -26,7 +29,7 @@ print("Squared difference of the first value: ", squared_diff)
 #<= (Less than or equal to), >= (Greater than or equal to).
 
 temprature = 25.5
-threshold =20.0
+threshold = 20.0
 is_above_threshold =temprature > threshold
 is_exact = temprature == 25.5
 not_exact = temprature != 25.5
@@ -42,7 +45,7 @@ print("Not Exact :", not_exact)
 
 value = 150
 is_high = value > 100
-is_positive= value > 0
+is_positive= value > 1000
 is_outlier = is_high and is_positive
 is_edge_case = is_high or (value < -100)
 print("Is Outlier", is_outlier)
@@ -52,6 +55,9 @@ print("Is Edge Case", is_edge_case)
 #Since lists are so central to data science, let’s touch on basic operations you can perform on them. While some involve methods (like .append()), there are also operators for lists.
 #Key Operations:
 #+ (Concatenation): Combines two lists.
+myList = [1,2,34,45] 
+yourList = [10,89,34]
+print(myList * 10)
 #* (Repetition): Repeats a list.
 #in (Membership): Checks if an item is in the list.
 #Indexing/Slicing: Access specific elements (e.g., list[0] or list[1:3]).
@@ -68,4 +74,3 @@ print("Repeated Data:", repeated_data)
 print("Is 20 Present?", is_present)
 print("First Value:", first_value)
 print("Subset:", subset)
-
