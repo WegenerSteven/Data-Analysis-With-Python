@@ -9,7 +9,7 @@ else:
 print('Discount =',discount)
 print('Net Amount',amount - discount)
 
-#single statements suites
-marks = int(input("Enter Marks:"))
-if marks >= 50:print('Pass')
-else:print("Fail")
+# #single statements suites
+# marks = int(input("Enter Marks:"))
+# if marks >= 50:print('Pass')
+# else:print("Fail")

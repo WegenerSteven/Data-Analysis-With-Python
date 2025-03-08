@@ -1,4 +1,6 @@
-#A function is a named block of code that performs a specific task and can be reused throughout your program. Think of it like a recipe: you define the steps once, then call it whenever you need it. In Python, you define functions with the def keyword, and they can take inputs (parameters), process them, and return results.
+#A function is a named block of code that performs a specific task and can be reused throughout your program. 
+# Think of it like a recipe: you define the steps once, then call it whenever you need it. 
+# In Python, you define functions with the def keyword, and they can take inputs (parameters), process them, and return results.
 #Why Use Functions in Data Science?
 #Reusability: Write once, use multiple times (e.g., a function to clean data).
 #Modularity: Break complex tasks into smaller, manageable pieces.

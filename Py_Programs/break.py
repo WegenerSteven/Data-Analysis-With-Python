@@ -26,3 +26,7 @@ for i in range(len(id)):
     else:
         print(x, 'Not found in the list.')
 
+for i in range(10):
+  if i == 5:
+    break
+  print(i)
